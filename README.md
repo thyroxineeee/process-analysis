@@ -45,4 +45,4 @@
 
 ## Инструменты
 
-Python (Pandas), Matplotlib, Excel
+Python (Pandas), Matplotlib, Google Sheets
