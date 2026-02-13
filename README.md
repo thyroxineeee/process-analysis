@@ -43,9 +43,10 @@
 
 ![orders](images/orders_before_after.png)
 
-Индекс перегрузок (High + Critical):
+Индекс перегрузок:
 
 ![overload](images/overload_before_after.png)
+
 
 ---
 
