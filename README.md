@@ -88,4 +88,4 @@
 
 ## Инструменты
 
-Python, Matplotlib, Google Sheets
+Python, Google Sheets
